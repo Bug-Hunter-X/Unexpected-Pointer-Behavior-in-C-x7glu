@@ -1,0 +1,1 @@
+This repository showcases a simple C program that exhibits unexpected behavior when using pointers.  The program demonstrates how modifications made through pointers can affect the original variables. The solution shows a safe way of using pointers.
